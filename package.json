@@ -1,0 +1,22 @@
+{
+  "name": "try-jwt",
+  "version": "1.0.0",
+  "description": "CoP - Try! JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruleechen/try-jwt.git"
+  },
+  "keywords": [
+    "jwt"
+  ],
+  "author": "Rulee Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruleechen/try-jwt/issues"
+  },
+  "homepage": "https://github.com/ruleechen/try-jwt#readme"
+}
